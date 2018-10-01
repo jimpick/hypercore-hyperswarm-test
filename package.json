@@ -10,7 +10,9 @@
   "author": "Jim Pick (@jimpick)",
   "license": "MIT",
   "dependencies": {
+    "@hyperswarm/network": "0.0.2",
     "hypercore": "^6.19.1",
+    "pump": "^3.0.0",
     "random-access-memory": "^3.0.0"
   }
 }

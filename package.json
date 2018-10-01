@@ -1,0 +1,16 @@
+{
+  "name": "hypercore-hyperswarm-test",
+  "version": "1.0.0",
+  "description": "Trying out hyperswarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT",
+  "dependencies": {
+    "hypercore": "^6.19.1",
+    "random-access-memory": "^3.0.0"
+  }
+}
